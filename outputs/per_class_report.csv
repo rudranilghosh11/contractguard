@@ -1,0 +1,19 @@
+,precision,recall,f1-score,support
+Anti-Assignment,0.877,0.877,0.877,114.0
+Audit Rights,0.954,0.929,0.941,155.0
+Cap On Liability,0.845,0.845,0.845,110.0
+Change Of Control,0.755,0.755,0.755,49.0
+Covenant Not To Sue,0.9,0.964,0.931,28.0
+Exclusivity,0.824,0.683,0.747,82.0
+Insurance,0.993,0.905,0.947,148.0
+Ip Ownership Assignment,0.792,0.808,0.8,52.0
+Liquidated Damages,0.875,0.833,0.854,42.0
+Minimum Commitment,0.778,0.778,0.778,63.0
+Neutral / Other,0.799,0.871,0.834,348.0
+Non-Compete,0.7,0.761,0.729,46.0
+Rofr/Rofo/Rofn,0.87,0.887,0.879,53.0
+Termination For Convenience,0.825,0.839,0.832,56.0
+Uncapped Liability,0.6,0.469,0.526,32.0
+accuracy,0.845,0.845,0.845,0.845
+macro avg,0.826,0.814,0.818,1378.0
+weighted avg,0.846,0.845,0.844,1378.0

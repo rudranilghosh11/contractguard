@@ -1,0 +1,13 @@
+{
+  "n_train": 5592,
+  "n_test": 1378,
+  "best_model": "TF-IDF + Logistic Regression",
+  "accuracy": 0.8447,
+  "macro_f1": 0.8183,
+  "weighted_f1": 0.8443,
+  "high_risk_precision": 0.8456,
+  "high_risk_recall": 0.7954,
+  "high_risk_f1": 0.8197,
+  "flag_high_or_medium_precision": 0.9271,
+  "flag_high_or_medium_recall": 0.9054
+}

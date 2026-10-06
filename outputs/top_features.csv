@@ -1,0 +1,151 @@
+clause_type,term,weight
+Anti-Assignment,assignment,6.873
+Anti-Assignment,assign,5.63
+Anti-Assignment,consent,4.284
+Anti-Assignment,transfer,4.171
+Anti-Assignment,void,4.041
+Anti-Assignment,written consent,3.413
+Anti-Assignment,this agreement,3.183
+Anti-Assignment,this,3.11
+Anti-Assignment,consent of,2.992
+Anti-Assignment,prior written,2.989
+Audit Rights,audit,11.55
+Audit Rights,records,8.213
+Audit Rights,audits,5.424
+Audit Rights,reasonable,5.167
+Audit Rights,inspect,4.821
+Audit Rights,inspection,4.603
+Audit Rights,books,4.386
+Audit Rights,access,3.916
+Audit Rights,at,2.961
+Audit Rights,business hours,2.952
+Cap On Liability,liability,5.224
+Cap On Liability,remedy,5.025
+Cap On Liability,damages,4.907
+Cap On Liability,exceed,4.436
+Cap On Liability,liable,4.351
+Cap On Liability,sole,3.91
+Cap On Liability,warranty,3.811
+Cap On Liability,be liable,3.558
+Cap On Liability,sole remedy,3.211
+Cap On Liability,exclusive remedy,3.112
+Change Of Control,change,8.016
+Change Of Control,change of,6.235
+Change Of Control,control,5.673
+Change Of Control,of control,5.549
+Change Of Control,transfer,4.823
+Change Of Control,merger,4.694
+Change Of Control,ceases,3.107
+Change Of Control,terminated,3.087
+Change Of Control,terminate,2.926
+Change Of Control,control of,2.925
+Covenant Not To Sue,contest,5.001
+Covenant Not To Sue,validity,4.933
+Covenant Not To Sue,the validity,4.527
+Covenant Not To Sue,trademarks,4.45
+Covenant Not To Sue,challenge,4.265
+Covenant Not To Sue,ownership,4.262
+Covenant Not To Sue,validity of,3.925
+Covenant Not To Sue,any,3.627
+Covenant Not To Sue,shall not,3.321
+Covenant Not To Sue,marks,3.04
+Exclusivity,exclusive,11.205
+Exclusivity,exclusively,5.446
+Exclusivity,the exclusive,5.43
+Exclusivity,exclusivity,4.784
+Exclusivity,an exclusive,3.96
+Exclusivity,grants,3.242
+Exclusivity,exclusive right,3.187
+Exclusivity,territory,3.186
+Exclusivity,products,2.81
+Exclusivity,subject to,2.807
+Insurance,insurance,16.855
+Insurance,coverage,7.087
+Insurance,policies,4.87
+Insurance,insured,4.535
+Insurance,liability,4.442
+Insurance,maintain,4.416
+Insurance,policy,4.372
+Insurance,such insurance,4.327
+Insurance,of insurance,3.591
+Insurance,liability insurance,3.211
+Ip Ownership Assignment,all,5.853
+Ip Ownership Assignment,assign,5.265
+Ip Ownership Assignment,property,4.542
+Ip Ownership Assignment,title,4.165
+Ip Ownership Assignment,assign to,3.682
+Ip Ownership Assignment,title and,3.351
+Ip Ownership Assignment,rights,3.347
+Ip Ownership Assignment,works,3.313
+Ip Ownership Assignment,right title,3.195
+Ip Ownership Assignment,made,3.143
+Liquidated Damages,liquidated damages,7.823
+Liquidated Damages,liquidated,7.713
+Liquidated Damages,fee,5.932
+Liquidated Damages,pay,5.15
+Liquidated Damages,damages,4.888
+Liquidated Damages,penalty,3.611
+Liquidated Damages,termination fee,3.503
+Liquidated Damages,amount,3.298
+Liquidated Damages,termination,3.148
+Liquidated Damages,due,3.007
+Minimum Commitment,minimum,16.147
+Minimum Commitment,minimum of,5.122
+Minimum Commitment,the minimum,4.784
+Minimum Commitment,year,4.51
+Minimum Commitment,at least,4.103
+Minimum Commitment,least,4.103
+Minimum Commitment,less,3.793
+Minimum Commitment,less than,3.66
+Minimum Commitment,purchase,3.239
+Minimum Commitment,annual,3.202
+Neutral / Other,means,4.758
+Neutral / Other,information,3.03
+Neutral / Other,confidential,2.573
+Neutral / Other,whereas,2.491
+Neutral / Other,meaning,2.45
+Neutral / Other,and,2.424
+Neutral / Other,use,2.411
+Neutral / Other,address,2.295
+Neutral / Other,support,2.226
+Neutral / Other,the meaning,2.132
+Non-Compete,competitive,7.034
+Non-Compete,competitor,6.051
+Non-Compete,competing,5.195
+Non-Compete,not,4.48
+Non-Compete,competitors,4.296
+Non-Compete,business,3.678
+Non-Compete,compete,3.582
+Non-Compete,directly,3.558
+Non-Compete,products,3.464
+Non-Compete,not to,3.153
+Rofr/Rofo/Rofn,option,7.686
+Rofr/Rofo/Rofn,first,5.291
+Rofr/Rofo/Rofn,offer,5.264
+Rofr/Rofo/Rofn,if,4.592
+Rofr/Rofo/Rofn,purchase,4.59
+Rofr/Rofo/Rofn,negotiate,4.165
+Rofr/Rofo/Rofn,terms,3.992
+Rofr/Rofo/Rofn,refusal,3.9
+Rofr/Rofo/Rofn,exercise,3.685
+Rofr/Rofo/Rofn,right of,3.669
+Termination For Convenience,terminate,6.861
+Termination For Convenience,written notice,5.454
+Termination For Convenience,notice,5.067
+Termination For Convenience,any time,4.647
+Termination For Convenience,at any,4.511
+Termination For Convenience,written,4.357
+Termination For Convenience,days,3.68
+Termination For Convenience,may terminate,3.287
+Termination For Convenience,person including,3.177
+Termination For Convenience,reason,3.092
+Uncapped Liability,liability,5.883
+Uncapped Liability,except,4.515
+Uncapped Liability,damages,4.222
+Uncapped Liability,party,4.171
+Uncapped Liability,section,3.927
+Uncapped Liability,except for,3.763
+Uncapped Liability,indemnification,3.455
+Uncapped Liability,arising,3.065
+Uncapped Liability,breach,3.005
+Uncapped Liability,obligations,2.785

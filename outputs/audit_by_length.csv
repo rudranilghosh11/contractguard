@@ -1,0 +1,4 @@
+length_group,n,accuracy,macro_f1,high_risk_recall,n_high_risk
+Short (<=40 words),645,0.862,0.819,0.765,115
+Medium (41-100),589,0.839,0.818,0.81,153
+Long (>100),144,0.792,0.773,0.829,35

@@ -1,0 +1,4 @@
+model,accuracy,macro_f1,weighted_f1
+TF-IDF + Logistic Regression,0.8447,0.8183,0.8443
+TF-IDF + Linear SVM,0.8476,0.8149,0.8472
+TF-IDF + Complement NB,0.8055,0.7428,0.7949
